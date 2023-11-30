@@ -18,8 +18,8 @@ nav{
 	display:flex;
 	justify-content: space-evenly;
 	border-radius:6px;
-	width: 90%;
-	height:33px;
+	width: 80%;
+	height:29px;
 	font-size:1em;
 	align-items: center;
 }
