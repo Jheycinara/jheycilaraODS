@@ -12,7 +12,7 @@ section#te{
 	margin-right: 10px;
 }
 section#pq{
-	font-size:25px;
+	font-size:2em;
 }
 nav{
 	display:flex;
@@ -20,7 +20,7 @@ nav{
 	border-radius:6px;
 	width: 90%;
 	height:33px;
-	font-size:20px;
+	font-size:1em;
 	align-items: center;
 }
 a{
@@ -32,7 +32,7 @@ a{
 	margin-right: 9px;
 }
 #c:hover{
-	font-size:23px;
+	font-size:1em;
 	color:#a62550;
 	font-family: arial;
 	text-decoration:underline;
@@ -56,17 +56,17 @@ aside{
 	margin-right:20px;
 }
 p{
-	font-size:19px;
+	font-size:1em;
 	font-family:arial;
 	text-align:justify;
 	
 }
 h1{
-	font-size:20px;
+	font-size:1em;
 	font-family:arial;
 }
 ul{
-	font-size:20px;
+	font-size:1em;
 	font-family:arial;
 	text-align:justify;
 	

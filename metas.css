@@ -12,7 +12,7 @@ section#te{
 	margin-right: 10px;
 }
 section#pq{
-	font-size:25px;
+	font-size:1em;
 }
 nav{
 	display:flex;
@@ -20,7 +20,7 @@ nav{
 	border-radius:6px;
 	width: 90%;
 	height:33px;
-	font-size:20px;
+	font-size:1em;
 	align-items: center;
 }
 a{
@@ -32,7 +32,7 @@ a{
 	margin-right: 9px;
 }
 #c:hover{
-	font-size:23px;
+	font-size:1em;
 	color:#a62550;
 	font-family: arial;
 	text-decoration:underline;
@@ -60,15 +60,15 @@ body{
 }
 .box-3{
 	grid-column:1/5;
-	font-size:25px;
+	font-size:1em;
 }
 .box-4{
 	grid-column:1/5;
-	font-size:20px;
+	font-size:1em;
 }
 .box-7{
 	grid-column:1/5;
 }
 #a{
-	width:100%; 	
+	width:80%; 	
 }
