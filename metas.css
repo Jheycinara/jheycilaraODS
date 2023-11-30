@@ -22,6 +22,7 @@ nav{
 	height:29px;
 	font-size:1em;
 	align-items: center;
+	margin-botton:10px;
 }
 a{
 	color:  black;
@@ -30,6 +31,7 @@ a{
 	margin-left: 5px;
 	word-spacing:3px;
 	margin-right: 9px;
+	
 }
 #c:hover{
 	font-size:1em;
