@@ -72,3 +72,8 @@ body{
 #a{
 	width:100%; 	
 }
+@media only screen and (min-width:10px) and (max-width:600px){
+section#pq{
+	margin:auto;
+}
+}
